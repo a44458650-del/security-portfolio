@@ -30,7 +30,11 @@ python -m http.server 8000
 
 ## 공개 주소
 
-배포 전입니다. GitHub Pages 배포 후 주소를 추가합니다.
+[정보보안 포트폴리오 열기](https://a44458650-del.github.io/security-portfolio/)
+
+## 검증 안내서
+
+[포트폴리오 검증 안내서 보기](verification-guide.md)
 
 ## 개인정보 및 비밀정보
 
