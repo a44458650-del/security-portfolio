@@ -30,7 +30,7 @@ python -m http.server 8000
 
 ## 공개 주소
 
-[정보보안 포트폴리오 열기](https://a44458650-del.github.io/security-portfolio/)
+[정보보안 포트폴리오 열기](https://seokgw.github.io/security-portfolio/)
 
 ## 검증 안내서
 

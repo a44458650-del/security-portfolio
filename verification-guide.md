@@ -2,7 +2,7 @@
 
 ## 어디로 가나요
 
-[정보보안 포트폴리오 열기](https://a44458650-del.github.io/security-portfolio/)
+[정보보안 포트폴리오 열기](https://seokgw.github.io/security-portfolio/)
 
 ## 무엇을 하나요
 
