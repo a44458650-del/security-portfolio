@@ -2,7 +2,7 @@
 
 ## 어디로 가나요
 
-공개 배포 전입니다. GitHub Pages 배포 후 공개 주소를 추가합니다.
+[정보보안 포트폴리오 열기](https://a44458650-del.github.io/security-portfolio/)
 
 ## 무엇을 하나요
 
